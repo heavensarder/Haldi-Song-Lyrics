@@ -1,0 +1,6 @@
+{
+  "name": "Song Lyrics Reader",
+  "description": "An elegant, highly organized multi-lingual lyrics reader featuring the Anek Google Font family with autoscroll, font scaling, and reading aids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
